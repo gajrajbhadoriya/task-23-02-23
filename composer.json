@@ -1,0 +1,13 @@
+{
+    "autoload" : {
+        "files": [
+            "api/helper.php"
+        ]
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
